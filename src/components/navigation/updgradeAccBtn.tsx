@@ -21,13 +21,13 @@ const UpdgradeAccBtn = async (props: Props) => {
   }
   const forms = await getUserForms();
   const formCount = forms.length;
-  const percent = (formCount / MAX_FREE_FROMS) * 100;
+  const percent = Math.min((formCount / MAX_FREE_FROMS) * 100, 100);
 
   return (
     <div className='p-4 mb-4 text-left text-xs'>
       <ProgressBar value={percent} />
       <p className='mt-2'>{formCount} out of {MAX_FREE_FROMS} forms generated.</p>
-      <p>
+      <p className="whitespace-nowrap overflow-hidden ">
         <SubscribeBtn price="price_1Oeu01C0XQCoR9vaO7GKAKRJ" userId={userId} />
         {' '} for unlimited forms.
       </p>
