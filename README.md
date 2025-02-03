@@ -8,14 +8,23 @@ AI Form Generator is a powerful tool that harnesses AI to generate fully customi
 
 ## Tech Stack  
  Next-auth - authentication
+ 
  Shadcn ui - ui library
+ 
  Open Al - AI Integration
+ 
  Drizzle - Orm
+ 
  PostgreSQL - database
+ 
  Stripe - payments
+ 
  Tanstack -Table
+ 
  Typescript - Type Checking
+ 
  Vercel - Deployment
+ 
  Stripe - Payments 
  
 ## Features  
