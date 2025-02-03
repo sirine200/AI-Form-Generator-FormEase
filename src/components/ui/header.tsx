@@ -24,7 +24,7 @@ const Header = async (props: Props) => {
 
   return (
     <header className='border bottom-1'><nav className='bg-white border-gray-200 px-4 py-2.5'>
-      <div className='flex flex-wrap justify-between items-center mx-auto max-w-screen-xl'><div className='flex items-center space-x-2'><a href='/'><img src="images/app/kitty.png" alt="logo" width={70} height='auto'/></a><a href='/'><h1 className="text-3xl font-bold text-black bg-gradient-to-r from-silver-400 via-silver-500 to-silver-600 text-transparent bg-clip-text">FormEase</h1></a></div><div>
+      <div className='flex flex-wrap justify-between items-center mx-auto max-w-screen-xl'><div className='flex items-center space-x-2'><a href='/'><img src="images/app/kitty.png" alt="logo" width={70} height='auto'/></a><a href='/'><h1 className="text-3xl font-bold text-black bg-gradient-to-r from-silver-400 via-silver-500 to-silver-600 bg-clip-text">FormEase</h1></a></div><div>
         {
           session?.user ? (
             <div className="flex items-center gap-4">
