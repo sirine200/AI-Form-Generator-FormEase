@@ -6,7 +6,7 @@ AI Form Generator is a powerful tool that harnesses AI to generate fully customi
 
 ## Deployment Link
 You can access the live version of **FormEase** here:  
-[**FormEase AI Platform**](https://legalysis-ai.onrender.com)
+[**FormEase AI Platform**](https://ai-form-generator-six.vercel.app/)
 
 
 ## Tech Stack  
