@@ -3,10 +3,30 @@ AI Form Generator is a powerful tool that harnesses AI to generate fully customi
 
 ![AI Form Builder](home-demo.JPG)
 
+---
+
+
+## Snapshot
+
+
+ ![Home Page](FormEase-Home.png)
+  
+ ![Dashboard](FormEase-Dashboard.JPG)
+  
+ ![Prompt](FormEase-Prompt.JPG)
+  
+ ![Form](FormEase-Form.JPG)
+
+ ![Responses](FormEase-Response.JPG)
+
+---
+
 
 ## Deployment Link
 You can access the live version of **FormEase** here:  
 [**FormEase AI Platform**](https://ai-form-generator-six.vercel.app/)
+
+---
 
 
 ## Tech Stack  
@@ -29,6 +49,9 @@ You can access the live version of **FormEase** here:
  Vercel - Deployment
  
  Stripe - Payments 
+
+ ---
+ 
  
 ## Features  
  AI-Powered Form Generation  
