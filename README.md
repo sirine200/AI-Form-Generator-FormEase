@@ -1,7 +1,7 @@
 # AI Form Generator
 AI Form Generator is a powerful tool that harnesses AI to generate fully customizable forms in seconds. Designed for ease of use, it enables users to generate, publish, and manage forms effortlessly while providing an intuitive user experience.
 
-![AI Form Builder](home-demo.JPG)
+
 
 ---
 
@@ -10,12 +10,16 @@ AI Form Generator is a powerful tool that harnesses AI to generate fully customi
 
 
  ![Home Page](FormEase-Home.png)
+ 
   
  ![Dashboard](FormEase-Dashboard.JPG)
+ 
   
  ![Prompt](FormEase-Prompt.JPG)
+ 
   
  ![Form](FormEase-Form.JPG)
+ 
 
  ![Responses](FormEase-Response.JPG)
 
