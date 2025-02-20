@@ -2,11 +2,11 @@
 AI Form Generator is a powerful tool that harnesses AI to generate fully customizable forms in seconds. Designed for ease of use, it enables users to generate, publish, and manage forms effortlessly while providing an intuitive user experience.
 
 ![AI Form Builder](home-demo.JPG)
----
+
 
 ## Deployment Link
  ai-form-generator-six.vercel.app
- ---
+
 
 ## Tech Stack  
  Next-auth - authentication
